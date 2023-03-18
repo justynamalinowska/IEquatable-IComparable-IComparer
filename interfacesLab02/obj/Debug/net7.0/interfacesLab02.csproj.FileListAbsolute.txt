@@ -1,0 +1,15 @@
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/bin/Debug/net7.0/interfacesLab02
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/bin/Debug/net7.0/interfacesLab02.deps.json
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/bin/Debug/net7.0/interfacesLab02.runtimeconfig.json
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/bin/Debug/net7.0/interfacesLab02.dll
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/bin/Debug/net7.0/interfacesLab02.pdb
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/obj/Debug/net7.0/interfacesLab02.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/obj/Debug/net7.0/interfacesLab02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/obj/Debug/net7.0/interfacesLab02.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/obj/Debug/net7.0/interfacesLab02.AssemblyInfo.cs
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/obj/Debug/net7.0/interfacesLab02.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/obj/Debug/net7.0/interfacesLab02.dll
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/obj/Debug/net7.0/refint/interfacesLab02.dll
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/obj/Debug/net7.0/interfacesLab02.pdb
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/obj/Debug/net7.0/interfacesLab02.genruntimeconfig.cache
+/Users/justynamalinowska/Projects/interfacesLab02/interfacesLab02/obj/Debug/net7.0/ref/interfacesLab02.dll
